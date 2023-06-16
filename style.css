@@ -3,6 +3,10 @@ main {
   display:flex;
 }
 
+main div {
+  display:block;
+}
+
 main h1 {
   margin: 0 10px;
   text-align: center;
